@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FitClub/static/css/main.ad15c8ff.css",
+    "main.js": "/FitClub/static/js/main.648a2a2b.js",
+    "static/js/787.79129817.chunk.js": "/FitClub/static/js/787.79129817.chunk.js",
+    "static/media/hero_image.png": "/FitClub/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/one.png": "/FitClub/static/media/one.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/FitClub/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/FitClub/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/three.jpg": "/FitClub/static/media/three.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/FitClub/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/FitClub/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/two.jpg": "/FitClub/static/media/two.f5d2e52e514c544dfffb.jpg",
+    "static/media/hero_image_back.png": "/FitClub/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/FitClub/index.html",
+    "main.ad15c8ff.css.map": "/FitClub/static/css/main.ad15c8ff.css.map",
+    "main.648a2a2b.js.map": "/FitClub/static/js/main.648a2a2b.js.map",
+    "787.79129817.chunk.js.map": "/FitClub/static/js/787.79129817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad15c8ff.css",
+    "static/js/main.648a2a2b.js"
+  ]
+}
