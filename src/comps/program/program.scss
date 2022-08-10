@@ -1,0 +1,12 @@
+@import '../../global';
+
+.card {
+    background: $--caloryCard;
+    cursor: pointer;
+    transition: all .3s linear;
+    &:hover {
+        background: $--planCard !important;
+    }
+    
+    
+}

@@ -1,0 +1,55 @@
+
+@import '../../global';
+
+.sayAbout {
+    & div {
+        flex: 1;
+    }
+    & div:nth-child(2){
+        
+        & div:nth-child(3){
+            border: 1px solid $--orange;
+            left: -10%;
+            top: -2rem;
+            z-index: -1;
+        }
+        & div:nth-child(2){
+            background: $--planCard;
+            bottom: -2rem;
+            left: 10%;
+            z-index: -1;
+        }
+        & div:nth-child(1) {
+            width: 25rem;
+            height: 30rem;
+            flex: none;
+            animation: _right .5s linear;
+            
+        }
+    }
+    .content {
+        letter-spacing: 2px;
+        line-height: 4rem;
+        animation: _left .5s linear;
+    }   
+}
+@keyframes _left {
+    from {
+        transform: translate3d(-4rem,0,0);
+        opacity: 0;
+    }
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1;
+    }
+}
+@keyframes _right {
+    from {
+        transform: translate3d(4rem,0,0);
+        opacity: 0;
+    }
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1;
+    }
+}

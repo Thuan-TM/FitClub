@@ -1,0 +1,14 @@
+@import '../../global';
+
+
+.overlay{
+    background: rgba(253,120,43,.6);
+    z-index: -0;
+    opacity: 0.5;
+    filter: blur(10rem);
+    pointer-events: none;
+    
+}
+.plan___card {
+    background: $--planCard;
+}
